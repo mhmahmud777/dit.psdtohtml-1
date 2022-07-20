@@ -1,0 +1,614 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.container {
+	width: 1140px;
+	margin: 0 auto;
+}
+
+.banner{
+
+background: #87509C;
+
+width: 100%;
+
+float: left;
+
+padding: 50px 0px;
+}
+
+.header-top {}
+
+.logo {
+
+width: 30%;
+
+float: left;
+}
+
+.logo img {
+
+display: block;
+}
+
+.menu-bar {
+
+width: 70%;
+
+float: left;
+}
+
+nav {
+
+text-align: center;
+}
+
+nav ul {
+
+list-style: none;
+}
+
+nav ul li {
+
+display: inline-block;
+
+margin: 15px 40px;
+}
+
+nav ul li:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+}
+
+nav ul li a {
+
+text-decoration: none;
+
+color: #fff;
+
+font-size: 25px;
+}
+
+.hero {width: 600px;margin: 0 auto;}
+
+.hero h2 {padding-top: 154px;color: #fff;text-align: center;font-size: 25px;}
+
+.btn {
+	
+margin: 0 auto;
+	
+display: block;
+	
+margin-top: 38px;
+	
+background: #EB7D4B;
+	
+border: none;
+	
+color: #fff;
+	
+padding: 10px 20px;
+	
+font-size: 20px;
+	
+text-transform: uppercase;
+box-shadow: 0px 5px #CA6C42;
+}
+
+/*service Section start*/
+
+.service {
+
+background: #17C2A4;
+
+padding: 50px 0px;
+
+width: 100%;
+
+float: left;
+}
+
+.heading-tittle {
+
+width: 600px;
+
+margin: 0 auto;
+
+text-align: center;
+}
+
+.heading-tittle h2{text-transform: uppercase;font-size: 25px;margin-bottom: 16px;}
+
+
+.under-line {
+
+border-bottom: 2px solid #161616;
+
+display: block;
+
+width: 73px;
+
+margin: 0 auto;
+}
+
+.heading-tittle p{
+
+margin-top: 14px;
+
+font-size: 16px;
+}
+
+.service-box {
+
+width: 100%;
+
+float: left;
+
+margin: 40px 0px;
+}
+
+.service-one {
+
+width: 25%;
+
+float: left;
+
+text-align: center;
+}
+
+.service-one img{
+	
+display: block;
+	
+margin: 0 auto;
+}
+
+.service-one h3{
+	
+color: #fff;
+	
+margin: 18px 0px;
+	
+font-size: 25px;
+}
+
+.service-one p{
+	
+color: #fff;
+	
+line-height: 19px;
+}
+
+
+.team{
+
+background: #bebcbc80;
+
+width: 100%;
+
+float: left;
+
+padding: 40px 0px;
+}
+
+.team-box{
+	
+width: 100%;
+	
+float: left;
+	
+margin: 40px 0px;
+}
+
+.team-one{
+
+width: 25%;
+
+float: left;
+
+text-align: center;
+}
+
+.team-one img{
+	
+width: 200px;
+	
+height: 200px;
+	
+display: block;
+	
+margin: 0 auto;
+	
+margin-bottom: 27px;
+}
+
+.team-one h3{font-size: 28px;
+	    text-transform: uppercase;
+	}
+
+.team-one h5{
+	
+color: #097da3;
+	
+margin-bottom: 20px;
+}
+
+.team-one p {
+    line-height: 18px;
+}
+
+.team-one ul{
+
+list-style: none;
+
+display: block;
+
+margin: 18px 0px;
+}
+
+.team-one ul li{
+
+display: inline;
+
+margin: 0 4px;
+
+font-size: small;
+
+}
+
+.team-one ul li a{
+
+text-decoration: none;
+
+color: #fff;
+
+background: #a5a5a587;
+
+padding: 10px;
+
+border-radius: 12px;
+}
+
+
+.skills{
+
+width: 100%;
+
+float: left;
+
+padding: 30px 0px;
+}
+
+.skills-box{
+	
+width: 100%;
+	
+float: left;
+}
+
+
+
+.skills-one{
+	
+width: 25%;
+	
+float: left;
+	
+padding: 20px 0px;
+	
+text-align: center;
+}
+
+.skills-one img{
+	
+padding: 24px 0px;
+}
+
+.skills-one h3 {
+    font-size: 17px;
+}
+
+
+
+.portfolio{
+
+background: #FFDC98;
+
+width: 100%;
+
+float: left;
+
+padding: 40px 0px;
+}
+
+.portfolio-box{
+
+width: 100%;
+
+float: left;
+}
+
+.portfolio-box ul{
+
+list-style: none;
+
+text-align: center;
+
+margin: 31px 0px;
+}
+
+.portfolio-box ul li{
+
+display: inline;
+}
+
+.portfolio-box ul li a{
+	
+text-transform: uppercase;
+	
+text-decoration: none;
+	
+background: #e0c389;
+	
+padding: 10px;
+	
+margin: 8px;
+	
+color: #191919;
+	
+border-radius: 8px;
+}
+
+.portfolio-a{
+
+width: 50%;
+
+float: left;
+}
+
+.portfolio-a img{
+
+display: block;
+
+margin: 0 auto;
+}
+
+.portfolio-a h2{
+
+margin: 20px 0px;
+
+text-align: center;
+
+text-transform: uppercase;
+
+font-size: 15px;
+}
+
+.portfolio-box button{
+	
+width: 275px;
+	
+display: block;
+	
+margin: 0 auto;
+	
+padding: 20px;
+	
+font-size: 30px;
+	
+background: #1d39c1bd;
+	
+color: #fff;
+	
+border: none;
+	
+border-radius: 15px;
+	
+box-shadow: 2px 5px 0px #1b4ba373;
+	
+cursor: pointer;
+}
+
+
+
+
+
+.heading-tittle-2 {
+
+	width: 600px;
+
+	margin: 0 auto;
+
+	text-align: center;
+	color: #fff;
+}
+
+.heading-tittle-2 h2{
+	text-transform: uppercase;
+	font-size: 25px;
+	margin-bottom: 16px;
+}
+
+
+
+
+.heading-tittle-2 p{
+
+	margin-top: 14px;
+
+	font-size: 16px;
+}
+
+
+.about{
+
+background: #f3405b;
+
+width: 100%;
+
+float: left;
+
+padding-top: 40px;
+}
+
+.about-box{
+
+width: 100%;
+
+float: left;
+
+margin: 20px 0px;
+}
+
+.about-a{
+
+width: 50%;
+
+float: left;
+
+margin: 10px 0px;
+}
+
+.about-img{
+
+width: 20%;
+
+float: left;
+}
+
+.about-img img{
+
+display: block;
+
+width: 150px;
+
+height: 150px;
+
+margin-right: 10px;
+}
+
+.about-d{
+
+width: 60%;
+
+float: left;
+
+margin: 33px 47px;
+}
+
+
+.about-d p{
+
+line-height: 17px;
+
+font-style: italic;
+
+color: #fff;
+}
+
+.about-d h1{
+
+text-transform: uppercase;
+
+color: #fff;
+
+margin-top: 16px;
+
+font-size: 30px;
+}
+
+.about-d h2{
+
+color: yellow;
+
+font-size: 21px;
+}
+
+
+
+
+
+.touch{
+
+background: #0e1291;
+
+width: 100%;
+
+float: left;
+
+padding-top: 40px;
+}
+
+.contact {
+	width: 875px;
+	margin: 0 auto;
+    margin-top: 60px;
+}
+
+.form-input {
+	width: 44%;
+	float: left;
+	font-size: 17px;
+	margin: 0px 15px;
+	padding: 15px 0px;
+	border: none;
+	border-radius: 3px;
+	background-color: #8fa5b8;
+	padding-left: 15px;
+}
+.form-text {
+	width: 93%;
+	height: 180px;
+	margin: 30px 15px 40px;
+	background-color: #8fa5b8;
+	border: none;
+	border-radius: 3px;
+	font-size: 17px;
+	padding: 15px 0px;
+	padding-left: 15px;
+}
+
+.form-btn {
+	display: block;
+	margin: 0 auto;
+	margin-bottom: 30px;
+	width: 260px;
+	padding: 20px 0px;
+	font-size: 17px;
+	text-transform: uppercase;
+	border: none;
+	border-radius: 3px;
+	background-color: #33B8E6;
+	box-shadow: 0px 3px 0px #65d1f6;
+	color: #fff;
+    cursor: pointer;
+}
+
+
+
+
+
+footer {
+	width: 100%;
+	float: left;
+	background-color: #13255d;
+	padding: 40px 0px;
+}
+.footer-menu {
+    list-style: none;    
+    padding: 0px 100px;
+}
+
+.footer-menu li {
+    display: inline-block;
+    margin: 0 12px;
+}
+
+.footer-menu li a {
+    text-decoration: none;
+    color: white;
+    font-size: 23px;
+    padding: 7px 10px;
+    border-radius: 5px;
